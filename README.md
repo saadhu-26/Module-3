@@ -1,6 +1,6 @@
 TUPLE IN PYTHON : CHECK ELEMENT EXISTENCE
 
-AAIM 
+AIM 
 
 To write a python program that checks if the element 'n' and the element 8 exist within a given tuple.
 
